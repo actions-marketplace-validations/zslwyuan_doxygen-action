@@ -1,4 +1,4 @@
-name: 'Doxygen Action'
+name: 'Doxygen Action with version 1.8.13'
 description: 'Generate documentation on a commented project using doxygen'
 branding:
   icon: 'book-open'
